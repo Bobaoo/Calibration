@@ -1,6 +1,6 @@
 # Calibration
 In this repository, I'll show the Calibration Tools used.
-Including single-camera calibration and camera-radar joint calibration in Autoware.
+Including single-camera calibration and camera-lidar joint calibration in Autoware.
 
 # Use steps 
 ## 1.Create a workspace 
