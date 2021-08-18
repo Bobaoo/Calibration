@@ -12,7 +12,7 @@ catkin_make
 ## 2.Clone Calibration package 
 ```
 cd ~/catkin_ws/src
-git clone 
+git clone git@github.com:Bobaoo/Calibration.git
 cd ..
 catkin_make
 ```
